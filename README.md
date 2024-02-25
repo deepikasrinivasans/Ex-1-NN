@@ -48,8 +48,8 @@ print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)                   # Y Train an
 <img eight=45% idth=34% src="https://github.com/deepikasrinivasans/Ex-1-NN/assets/119393935/4408e509-39ba-4ae1-b8d2-945bd7120fa9">
 <img eight=45% idth=34% align=top src="https://github.com/deepikasrinivasans/Ex-1-NN/assets/119393935/3a7054ee-15da-4b4e-8194-4b5524fdc3dc"><br>
 **DATA SPLITTING:** <br>
-<img eight=45% width=49% src="https://github.com/ROHITJAIND/EX-01-Kaggle-and-Data-preprocessing/assets/118707073/d312c539-39be-4335-9fda-375f3c648a5d">
-<img eight=45% width=50% align=top src="https://github.com/ROHITJAIND/EX-01-Kaggle-and-Data-preprocessing/assets/118707073/fa9f2f38-12f5-4151-8aed-5c5e128797e1"><br>
+<img eight=45% width=49% src="https://github.com/deepikasrinivasans/Ex-1-NN/assets/119393935/f5829182-59a2-4049-80d8-732e3238ef37">
+<img eight=45% width=50% align=top src="https://github.com/deepikasrinivasans/Ex-1-NN/assets/119393935/038f9500-4313-4551-9938-5fff632a3336"><br>
 **TRAIN AND TEST DATA:** <br>
 <img eight=45% width=49% src="https://github.com/ROHITJAIND/EX-01-Kaggle-and-Data-preprocessing/assets/118707073/55ba52a1-02e3-4565-afdc-33cc67d0bc27">
 <img eight=45% width=49% src="https://github.com/ROHITJAIND/EX-01-Kaggle-and-Data-preprocessing/assets/118707073/b12727ea-e8af-48dd-b190-64f4fc4afd29">
