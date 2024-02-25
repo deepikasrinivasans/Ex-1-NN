@@ -46,9 +46,7 @@ print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)                   # Y Train an
 <br>
 **NULL VALUES:** &emsp;&emsp;&emsp;&emsp;&emsp; **NORMALIZED DATA:** <br>
 <img eight=45% idth=34% src="https://github.com/deepikasrinivasans/Ex-1-NN/assets/119393935/4408e509-39ba-4ae1-b8d2-945bd7120fa9">
-
-<img eight=45% idth=34% align=top src="   ![nn3](https://github.com/deepikasrinivasans/Ex-1-NN/assets/119393935/3a7054ee-15da-4b4e-8194-4b5524fdc3dc)
- "><br>
+<img eight=45% idth=34% align=top src="https://github.com/deepikasrinivasans/Ex-1-NN/assets/119393935/3a7054ee-15da-4b4e-8194-4b5524fdc3dc"><br>
 **DATA SPLITTING:** <br>
 <img eight=45% width=49% src="https://github.com/ROHITJAIND/EX-01-Kaggle-and-Data-preprocessing/assets/118707073/d312c539-39be-4335-9fda-375f3c648a5d">
 <img eight=45% width=50% align=top src="https://github.com/ROHITJAIND/EX-01-Kaggle-and-Data-preprocessing/assets/118707073/fa9f2f38-12f5-4151-8aed-5c5e128797e1"><br>
